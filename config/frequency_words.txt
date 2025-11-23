@@ -1,1 +1,282 @@
+# 美国科技巨头 / US Tech Giants
+苹果
+Apple
+iPhone
+iPad
+Mac
+iOS
+Vision Pro
+库克
+Tim Cook
 
+微软
+Microsoft
+Windows
+Azure
+Copilot
+GitHub
+Satya Nadella
+
+谷歌
+Google
+Alphabet
+Gemini
+DeepMind
+Android
+YouTube
+Sundar Pichai
+
+亚马逊
+Amazon
+AWS
+Jeff Bezos
+Andy Jassy
+
+Meta
+Facebook
+Instagram
+WhatsApp
+Threads
+Quest
+扎克伯格
+Zuckerberg
+
+英伟达
+NVIDIA
+黄仁勋
+Jensen Huang
+GPU
+AI芯片
+H100
+
+AMD
+Lisa Su
+
+英特尔
+Intel
+Pat Gelsinger
+
+特斯拉
+Tesla
+马斯克
+Musk
+Elon Musk
+Model 3
+Model Y
+Cybertruck
+FSD
+
+# AI公司 / AI Companies
+OpenAI
+ChatGPT
+GPT
+GPT-4
+Sora
+Sam Altman
+
+Anthropic
+Claude
+Dario Amodei
+
+DeepMind
+Demis Hassabis
+
+xAI
+Grok
+
+# 芯片与半导体 / Chips & Semiconductors
+芯片
+半导体
+Semiconductor
+CPU
+GPU
+台积电
+TSMC
+中芯国际
+SMIC
+Qualcomm
+Arm
+ASML
+
+# 云计算 / Cloud Computing
+云计算
+Cloud Computing
+AWS
+Azure
+GCP
+Snowflake
+Databricks
+MongoDB
+
+# SaaS与软件 / SaaS & Software
+Salesforce
+Slack
+Zoom
+Notion
+Figma
+Adobe
+Oracle
+Palantir
+
+# 社交媒体 / Social Media
+Twitter
+X
+TikTok
+ByteDance
+Reddit
+Discord
+
+# 金融科技 / Fintech
+Stripe
+Square
+Block
+PayPal
+Coinbase
+Robinhood
+
+# 网络安全 / Cybersecurity
+CrowdStrike
+Palo Alto Networks
+Zscaler
+Okta
+Cloudflare
+
+# 自动驾驶 / Autonomous Driving
+Waymo
+Tesla FSD
+Cruise
+Rivian
+Lucid
+
+# 太空科技 / Space Tech
+SpaceX
+Starship
+Starlink
+Blue Origin
+
+# 创业生态 / Startup Ecosystem
+Y Combinator
+YC
+a16z
+Andreessen Horowitz
+Sequoia
+Accel
+Benchmark
+
+# 独角兽与热门创业公司 / Unicorns & Hot Startups
+Stripe
+OpenAI
+Anthropic
+Databricks
+Figma
+Notion
+Discord
+Scale AI
+Anduril
+Character.AI
+Runway
+Hugging Face
+
+# IPO与上市 / IPOs
+IPO
+上市
+SPAC
+
+# AI与机器学习 / AI & Machine Learning
+人工智能
+AI
+大模型
+LLM
+Large Language Model
+生成式AI
+Generative AI
+AGI
+深度学习
+Deep Learning
+机器学习
+Machine Learning
+Transformer
+多模态
+Multimodal
+AI Agent
+RAG
+
+# 科技趋势 / Tech Trends
+Web3
+区块链
+Blockchain
+比特币
+Bitcoin
+BTC
+以太坊
+Ethereum
+ETH
+加密货币
+Cryptocurrency
+量子计算
+Quantum Computing
+5G
+6G
+
+# 中国科技巨头 (30%) / Chinese Tech Giants
+腾讯
+Tencent
+马化腾
+微信
+WeChat
+
+阿里巴巴
+Alibaba
+淘宝
+Taobao
+蚂蚁集团
+Ant Group
+支付宝
+Alipay
+
+字节跳动
+字节
+ByteDance
+抖音
+TikTok
+张一鸣
+
+华为
+Huawei
+任正非
+鸿蒙
+HarmonyOS
+
+小米
+Xiaomi
+雷军
+
+百度
+Baidu
+李彦宏
+文心一言
+ERNIE
+
+比亚迪
+BYD
+王传福
+
+大疆
+DJI
+
+# 科技政策与监管 / Tech Policy & Regulation
+反垄断
+Antitrust
+数据安全
+Data Security
+隐私保护
+Privacy Protection
+网络安全
+Cybersecurity
+监管
+Regulation
+FTC
+SEC
+DOJ
+欧盟
+EU
